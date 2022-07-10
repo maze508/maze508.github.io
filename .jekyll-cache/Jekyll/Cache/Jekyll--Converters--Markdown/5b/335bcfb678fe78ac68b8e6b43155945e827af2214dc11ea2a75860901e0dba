@@ -1,0 +1,72 @@
+I"©<p>Hi, Iâ€™m a Data Science Enthusiast that especially enjoys the process of discovering new knowledge from data. I participate in Data Science competitions from time to time and this blog serves as a platform for me to share my ideas in some of the competitions I have done.</p>
+
+<table class="tablelines">
+  <thead>
+    <tr>
+      <th style="text-align: center">No.</th>
+      <th style="text-align: center">Model</th>
+      <th style="text-align: center">Dataset</th>
+      <th style="text-align: center">CV</th>
+      <th style="text-align: center">Loss Fn</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">Roberta Base</td>
+      <td style="text-align: center">Toxic + Multilingual + Ruddit + Malignant</td>
+      <td style="text-align: center">0.69569</td>
+      <td style="text-align: center">MRL</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">Roberta Base</td>
+      <td style="text-align: center">Toxic + Multilingual + Ruddit + Malignant</td>
+      <td style="text-align: center">0.69465</td>
+      <td style="text-align: center">BCE</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">3</td>
+      <td style="text-align: center">Roberta Large</td>
+      <td style="text-align: center">Toxic + Multilingual + Ruddit + Malignant</td>
+      <td style="text-align: center">0.70021</td>
+      <td style="text-align: center">MRL</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">4</td>
+      <td style="text-align: center">Roberta Large</td>
+      <td style="text-align: center">Toxic + Multilingual + Ruddit + Malignant</td>
+      <td style="text-align: center">0.69615</td>
+      <td style="text-align: center">BCE</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">5</td>
+      <td style="text-align: center">Deberta Base</td>
+      <td style="text-align: center">Toxic + Multilingual + Ruddit + Malignant</td>
+      <td style="text-align: center">0.70130</td>
+      <td style="text-align: center">MRL</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">6</td>
+      <td style="text-align: center">Deberta Base</td>
+      <td style="text-align: center">Toxic + Multilingual + Ruddit + Malignant</td>
+      <td style="text-align: center">0.70101</td>
+      <td style="text-align: center">BCE</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">7</td>
+      <td style="text-align: center">Deberta Base</td>
+      <td style="text-align: center">Toxic + Multilingual + Malignant</td>
+      <td style="text-align: center">0.70115</td>
+      <td style="text-align: center">MRL</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">8</td>
+      <td style="text-align: center">Deberta Base</td>
+      <td style="text-align: center">Toxic + Multilingual + Malignant</td>
+      <td style="text-align: center">0.69867</td>
+      <td style="text-align: center">BCE</td>
+    </tr>
+  </tbody>
+</table>
+:ET

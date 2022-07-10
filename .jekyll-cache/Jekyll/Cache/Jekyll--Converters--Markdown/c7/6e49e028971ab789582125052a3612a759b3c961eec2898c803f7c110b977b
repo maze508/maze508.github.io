@@ -1,0 +1,23 @@
+I"<p>Hi, I’m a Data Science Enthusiast that especially enjoys the process of discovering new knowledge from data. I participate in Data Science competitions from time to time and this blog serves as a platform for me to share my ideas in some of the competitions I have done.</p>
+
+<style>
+        .tablelines table, 
+        .tablelines td , 
+        .tablelines th 
+</style>
+
+<table class="tablelines">
+  <tbody>
+    <tr>
+      <td><code class="language-plaintext highlighter-rouge">Top 2%</code></td>
+      <td>Jigsaw Rate Severity of Toxic Comments</td>
+      <td>2022</td>
+    </tr>
+    <tr>
+      <td><code class="language-plaintext highlighter-rouge">Global Winner</code></td>
+      <td>Better Working World Data Challenge</td>
+      <td>2022</td>
+    </tr>
+  </tbody>
+</table>
+:ET
