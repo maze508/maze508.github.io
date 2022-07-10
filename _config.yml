@@ -1,7 +1,7 @@
-title:              Blog In Progress
+title:              maze508
 email:              your-email@example.com
-description:        A Blog In Progress
-author:             :D :D
+description:        A Collection of Data Science Competition Writeups
+author:             maze508
 baseurl:            ""
 url:                "https://maze508.github.io"
 
