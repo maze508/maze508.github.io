@@ -30,7 +30,7 @@ kbd {
 // Blocks of code
 pre {
   display: block;
-  @include font-size($code-font-size);
+  @include font-size(14);
   color: $pre-color;
 
   // Account for some code outputs that place code tags in pre tags
@@ -38,6 +38,7 @@ pre {
     @include font-size(inherit);
     color: inherit;
     word-break: normal;
+    
   }
 }
 
