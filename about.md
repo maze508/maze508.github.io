@@ -18,5 +18,6 @@ Hi, I'm a Data Science Enthusiast that especially enjoys the process of discover
 
 |---+---|
 |:---:|:---:|
-| `Top 2%` | Jigsaw Rate Severity of Toxic Comments | 2022
+| `Top 1.7%` | Jigsaw Rate Severity of Toxic Comments | Mar 2022
+| `Global Winner` | EY's 2022 Better Working World Data Challenge | Jul 2022
 {: .tablelines}
